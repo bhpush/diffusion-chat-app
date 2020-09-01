@@ -1,6 +1,6 @@
 # diffusion-chat-app
 
-This is sample chat application using Node JS & Diffusion Cloud
+This is sample chat application using Node JS & Diffusion Cloud.
 Users can chat in realtime across various meeting rooms.
 A simple projects, illustrating production and consumption of chat messages to and from a Diffusion Cloud instance.
 
@@ -18,9 +18,9 @@ A simple projects, illustrating production and consumption of chat messages to a
 
 Set lines 12 of `public/js/app.js` to the hostname of your Diffusion Cloud service, which you can find in your service dashboard.
 You can also leave the default values and connect to our sandbox service:
-  diffusionchatapp.eu.diffusion.cloud
-  user: admin
-  password: password
+* host: 'diffusionchatapp.eu.diffusion.cloud'
+* user: 'admin'
+* password: 'password'
 
 # Execution
 
